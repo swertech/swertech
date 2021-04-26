@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/swertech/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/swertech/static/js/main.09a657f4.chunk.js",
+    "main.js.map": "/swertech/static/js/main.09a657f4.chunk.js.map",
+    "runtime-main.js": "/swertech/static/js/runtime-main.53d9a60c.js",
+    "runtime-main.js.map": "/swertech/static/js/runtime-main.53d9a60c.js.map",
+    "static/js/2.94389ea1.chunk.js": "/swertech/static/js/2.94389ea1.chunk.js",
+    "static/js/2.94389ea1.chunk.js.map": "/swertech/static/js/2.94389ea1.chunk.js.map",
+    "static/js/3.52e3c19b.chunk.js": "/swertech/static/js/3.52e3c19b.chunk.js",
+    "static/js/3.52e3c19b.chunk.js.map": "/swertech/static/js/3.52e3c19b.chunk.js.map",
+    "index.html": "/swertech/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/swertech/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.94389ea1.chunk.js.LICENSE.txt": "/swertech/static/js/2.94389ea1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/swertech/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d9a60c.js",
+    "static/js/2.94389ea1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.09a657f4.chunk.js"
+  ]
+}
